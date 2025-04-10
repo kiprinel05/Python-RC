@@ -1,22 +1,42 @@
-sursa: C6, destinatia: C7
+sursa: C6, destinatia: C8
 
 C6: muta jetonul
 C7: muta jetonul
-C7: am ajuns la destinatie
+C8: muta jetonul
+C8: am ajuns la destinatie
 
-sursa: C6, destinatia: C3
+sursa: C1, destinatia: C2
 
-C7: muta jetonul
 C8: muta jetonul
 C9: muta jetonul
 C0: muta jetonul
 C1: muta jetonul
 C2: muta jetonul
+C2: am ajuns la destinatie
+
+sursa: C9, destinatia: C6
+
+C2: muta jetonul
 C3: muta jetonul
-C3: am ajuns la destinatie
+C4: muta jetonul
+C5: muta jetonul
+C6: muta jetonul
+C6: am ajuns la destinatie
 
-sursa: C1, destinatia: C2
+sursa: C5, destinatia: C1
 
+C6: muta jetonul
+C7: muta jetonul
+C8: muta jetonul
+C9: muta jetonul
+C0: muta jetonul
+C1: muta jetonul
+C1: am ajuns la destinatie
+
+sursa: C7, destinatia: C9
+
+C1: muta jetonul
+C2: muta jetonul
 C3: muta jetonul
 C4: muta jetonul
 C5: muta jetonul
@@ -24,8 +44,34 @@ C6: muta jetonul
 C7: muta jetonul
 C8: muta jetonul
 C9: muta jetonul
+C9: am ajuns la destinatie
+
+sursa: C0, destinatia: C3
+
 C0: muta jetonul
 C1: muta jetonul
 C2: muta jetonul
-C2: am ajuns la destinatie
+C3: muta jetonul
+C3: am ajuns la destinatie
+
+sursa: C9, destinatia: C5
+
+C3: muta jetonul
+C4: muta jetonul
+C5: muta jetonul
+C5: am ajuns la destinatie
+
+sursa: C7, destinatia: C9
+
+C5: muta jetonul
+C6: muta jetonul
+C7: muta jetonul
+C8: muta jetonul
+C9: muta jetonul
+C9: am ajuns la destinatie
+
+sursa: C3, destinatia: C9
+
+C9: muta jetonul
+C9: am ajuns la destinatie
 
